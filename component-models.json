@@ -2396,16 +2396,11 @@
             ]
           },
           {
-            "component": "text",
-            "name": "placeholder",
-            "label": "Placeholder text",
-            "valueType": "string"
-          },
-          {
-            "component": "text",
-            "name": "default",
-            "label": "Default Value",
-            "valueType": "string"
+            "component": "number",
+            "name": "step",
+            "label": "Step",
+            "valueType": "number",
+            "description": "Step value for the range"
           }
         ]
       },
@@ -3916,6 +3911,13 @@
                 "value": "12"
               }
             ]
+          },
+          {
+            "component": "number",
+            "name": "step",
+            "label": "Step",
+            "valueType": "number",
+            "description": "Step value for the range"
           }
         ]
       },
