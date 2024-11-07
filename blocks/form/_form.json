@@ -164,6 +164,7 @@
         "plain-text",
         "radio-group",
         "rating",
+        "range",
         "telephone-input",
         "text-input",
         "tnc",
