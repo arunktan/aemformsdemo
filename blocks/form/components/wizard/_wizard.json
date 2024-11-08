@@ -19,5 +19,21 @@
       }
     }
   ],
-  "models": []
+  "models": [
+    {
+      "id": "tnc",
+      "fields": [
+        {
+          "component": "container",
+          "name": "basic",
+          "label": "Basic",
+          "collapsible": false,
+          "...": "../../../../models/form-common/_basic-input-fields.json"
+        },
+        {
+        "...": "../../../../models/form-common/_help-container.json"
+        }
+      ]
+    }
+  ]
 }
