@@ -10,7 +10,7 @@
                         "template": {
                             "jcr:title": "Range",
                             "fieldType": "number-input",
-                            "fd:viewType": "range",
+                            "fd:viewType": "Range",
                             "enabled": true,
                             "visible": true
                         }
