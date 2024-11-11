@@ -1,7 +1,7 @@
 {
     "definitions": [
         {
-            "title": "range",
+            "title": "Range",
             "id": "range",
             "plugins": {
                 "xwalk": {
